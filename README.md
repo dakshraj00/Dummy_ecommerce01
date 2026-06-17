@@ -2,7 +2,7 @@
 ![Dummy_ecommerce01](https://github.com/dakshraj00/Dummy_ecommerce01/blob/main/Screenshot%202026-06-17%20185316.png?raw=true)
 ![Dummy_ecommerce01](https://github.com/dakshraj00/Dummy_ecommerce01/blob/main/Screenshot%202026-06-17%20190517.png?raw=true)
 
-# 🚨 AI-Powered Incident Intelligence System
+#  AI-Powered Incident Intelligence System
 
 An intelligent incident detection and operational analytics platform for e-commerce order management built using **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **LangChain**, and **LangGraph**.
 
